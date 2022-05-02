@@ -7,7 +7,7 @@ body{
     background-image: url('not-in-my-house.gif');
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-size: cover;
+    background-size: cover; 
 }
 .box{
     position: absolute;
